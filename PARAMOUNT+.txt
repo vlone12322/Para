@@ -1,0 +1,227 @@
+arribipe2971@hotmail.com:pasaes22 | Plan = Paramount+ annual - Argentina - Trial | PlanType = standard | PackageStatus = ACTIVE | Pais = AR
+theathena@outlook.com:talkto2$TY | Plan = Paramount+ monthly - Mexico - Trial | PlanType = standard | PackageStatus = ACTIVE | Pais = MX
+cruz_ace1413@hotmail.com:Inspiron13 | Plan = Paramount+ monthly - Mexico - Trial | PlanType = standard | PackageStatus = ACTIVE | Pais = MX
+padominguezg@gmail.com:pacoca9013 | Plan = Paramount+ monthly - LATAM - No Trial | PlanType = standard | PackageStatus = ACTIVE | Pais = CL
+naniii.21@live.com:nani2606 | Plan = Paramount+ monthly - LATAM - Trial | PlanType = standard | PackageStatus = ACTIVE | Pais = CL | Expire = 2024-06-11T17:58:57.000Z
+luciiano.alvez@gmail.com:Manchester10 | Plan = Paramount+ annual - Uruguay - No Trial | PlanType = standard | PackageStatus = ACTIVE | Pais = UY
+arghort@gmail.com:Jano1977 | Plan = Paramount+ annual - LATAM - Trial | PlanType = standard | PackageStatus = ACTIVE | Pais = CL
+suellem.as@gmail.com:bc25122011 | Plan = Paramount+ premium annual - Brazil - No Trial | PlanType = premium | PackageStatus = ACTIVE | Pais = BR
+vikramdpsss@gmail.com:Paramount11 | Plan = Paramount+ monthly - Italy - No Trial | PlanType = standard | PackageStatus = ACTIVE_CANCELLED | Pais = IT | Expire = 2024-06-15T15:49:16.000Z
+jeanbalmont15@gmail.com:150305Naej | Plan = Paramount+ monthly - Brazil - No Trial | PlanType = standard | PackageStatus = ACTIVE | Pais = BR
+karthiks2@gmail.com:Ding@dong25 | Products = [Wondershare Filmora, TTS, STT, Filmora AI Credits] | Plan name = [Simultaneous Online Devices, Text to Speech for Win, Speech to Text for Win, Filmora AI Credits, Filmora AI Credits] | Days Left = 88 
+ambardar.sahil@gmail.com:Apple@12 | Products = [Wondershare Filmora, TTS, STT, Filmora AI Credits] | Plan name = [Simultaneous Online Devices, Text to Speech, Text to Speech for Win, Speech to Text, Speech to Text for Win, Filmora AI Credits] | Days Left = 306 
+drsschahal@gmail.com:babaji@55 | Products = [Wondershare Filmora, TTS, STT, Filmora AI Credits] | Plan name = [Simultaneous Online Devices, Text to Speech for Win, Speech to Text for Win, Filmora AI Credits, Filmora AI Credits, Filmora AI Credits] | Days Left = 155 
+atish9937@gmail.com:aTish@2015 | Products = [Wondershare Filmora, TTS, STT, Filmora AI Credits] | Plan name = [Simultaneous Online Devices, Text to Speech for Win, Speech to Text for Win, Filmora AI Credits] | Days Left = 334 
+nevonnejb@gmail.com:Mook@0213 | Products = [Wondershare Filmora, Filmora AI Credits] | Plan name = [Simultaneous Online Devices, Filmora AI Credits] | Days Left = 241 
+myxpace.22@gmail.com:Admin@123 | Products = [Wondershare Filmora for Android, Filmora AI Credits] | Plan name = [Service, Filmora AI Credits] | Days Left = 12 
+larios.srta@hotmail.com:Ty379zm6. | País = Brasil | Tipo = monthly - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+Richimaria19@gmail.com:Teamomaria18 | País = Uruguay | Tipo = monthly - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+waltergallardowog@hotmail.com:Lautaro2020 | País = Argentina | Tipo = annual - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+silviaroucrochet@gmail.com:saw2369SC | País = Uruguay | Tipo = monthly - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+perttupotter@gmail.com:Netflix99- | País = México | Tipo = monthly - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+vinicius.honorio@outlook.com.br:08041092 | País = Brasil | Tipo = monthly - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+andersson.ar@hotmail.com:sofiaarones12 | País = Perú | Tipo = monthly - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+tobisosa_97@hotmail.com:maradona | País = Argentina | Tipo = monthly - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+ivanapelayes@hotmail.com:Ivana1280 | País = Argentina | Tipo = monthly - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+kelliekimpo@hotmail.com:dacinta92 | País = Australia | Tipo = monthly - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+becca_welton76@live.ca:Aislynn1999 | País = Canadá | Tipo = monthly - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+raul.alvelais@gmail.com:15181277Scout1982 | País = Panamá | Tipo = monthly - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+andrespasso@gmail.com:Aplore123456 | País = Argentina | Tipo = annual - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+arq2berger@gmail.com:Spawn-81 | País = Guatemala | Tipo = monthly - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+waltergallardowog@hotmail.com:Lautaro2020 | País = Argentina | Tipo = annual - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+downsie123@outlook.com:Fremantle123 | País = Australia | Tipo = monthly - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+aturianomendez@gmail.com:Josefinamendez9 | País = Argentina | Tipo = annual - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+Richimaria19@gmail.com:Teamomaria18 | País = Uruguay | Tipo = monthly - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+perttupotter@gmail.com:Netflix99- | País = México | Tipo = monthly - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+silviaroucrochet@gmail.com:saw2369SC | País = Uruguay | Tipo = monthly - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+tobisosa_97@hotmail.com:maradona | País = Argentina | Tipo = monthly - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+wilson@icontato.com:Leonora2008 | País = Brasil | Tipo = annual - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+waltergallardowog@hotmail.com:Lautaro2020 | País = Argentina | Tipo = annual - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+LUISC3906@gmail.com:DavidM | País = México | Tipo = annual - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+marlo.abraham@outlook.com:40yveinte | País = México | Tipo = monthly - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+Tianfv@outlook.com:pArA+nos1 | País = Argentina | Tipo = annual - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+helgawlczek@gmail.com:acelga1050 | País = Argentina | Tipo = monthly - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+regaladoeliana3@gmail.com:almita55 | País = Argentina | Tipo = annual - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE_CANCELLED 
+sebas.monti1010@gmail.com:SebasDrums1 | País = Colombia | Tipo = annual - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE_CANCELLED 
+coreygrif@gmail.com:EAGles108 | País = Australia | Tipo = monthly - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+fcokpr@gmail.com:Piloto1971 | País = Guatemala | Tipo = annual - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+angeluz327@hotmail.com:gabriel1103 | País = Argentina | Tipo = monthly - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+alechaolo@gmail.com:Alechao23 | País = Argentina | Tipo = annual - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+jeyo_02@hotmail.com:Joa.20506415 | País = Chile | Tipo = monthly - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+tonisiempre@gmail.com:Inglaterra*1 | País = México | Tipo = monthly - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+tonisiempre@gmail.com:Inglaterra*1 | País = México | Tipo = monthly - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+shanelaidlaw@outlook.com:@Laidlaw170169 | País = Australia | Tipo = annual - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+masbord@gmail.com:19paramount70 | País = Ecuador | Tipo = monthly - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+Kicca.gattina@gmail.com:MiueSofy89& | País = Italia | Tipo = monthly - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+jdbejarg@gmail.com:72094405Jorge | País = Bolivia | Tipo = monthly - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+emimejiam@gmail.com:Disasterpiece1 | País = México | Tipo = monthly - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+rojasrocio998@gmail.com:41364510 | País = Argentina | Tipo = annual - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+giancarlo.guarino@fastwebnet.it:gg991143 | País = Italia | Tipo = annual - standard | Plan = Paramount+ with SHOWTIME® | Estado = ACTIVE 
+jproenca@gmail.com:Jeps3322 | PARAMOUNT+
+tquincan@gmail.com:moosence | PARAMOUNT+
+lalalalalala@gmail.com:Jeps3322 | PARAMOUNT+
+Johnproen.c.a@gmail.com:Jeps3322 | PARAMOUNT+
+Fsantistebanseclen@gmail.com:FabianD_04 | PARAMOUNT+
+olodz734@gmail.com:Learn8085 | PARAMOUNT+
+jeproencas@googlemail.com:Jeps3322 | PARAMOUNT+
+jeffriesomarion27@gmail.com:ashlan1988 | PARAMOUNT+
+tanttenoormaan@gmail.com:30NXPebblesNXNorman78 | PARAMOUNT+
+isaacge1@yopmail.net:aizack040100 | PARAMOUNT+
+john.pro.en.ca@gmail.com:Jeps3322 | PARAMOUNT+
+jimmysegrue07@gmail.com:adadwdadad | PARAMOUNT+
+amandalealac@gmail.com:mgc051110 | PARAMOUNT+
+sakshii00@hotmail.com:saint123 | PARAMOUNT+
+wybiealex4@gmail.com:GuD7S_ayvuPVK$2 | PARAMOUNT+
+fairyqueen1218@yahoo.com:Charles1420 | PARAMOUNT+
+matitechera23@gmail.com:matias0507 | PARAMOUNT+
+rodriguezdiego19@hotmail.com:cajasan1 | PARAMOUNT+
+Albagersanch.ez@gmail.com:Jeps3322 | PARAMOUNT+
+vignolamaxi0@gmail.com:Almafuerte1184 | PARAMOUNT+
+anthonyward146@gmail.com:Anthony88 | PARAMOUNT+
+juntosxsiempre2122@gmail.com:123per123 | PARAMOUNT+
+miguelangel160397@gmail.com:E81636619 | PARAMOUNT+
+sraallison@yahoo.com:ewfre553w4es547/bdgs346 | PARAMOUNT+
+samatha730@btinternet.com:Starry123 | PARAMOUNT+
+kennethmadridv@liceocatolico.net:Kennom75 | PARAMOUNT+
+bpressley4@yahoo.com:Million9DollarBill | PARAMOUNT+
+tanttenorman@gmail.com:30NXPebblesNXNorman78 | PARAMOUNT+
+para10923@gmail.com:cajasan1 | PARAMOUNT+
+tanttenoorman@gmail.com:30NXPebblesNormanNX78 | PARAMOUNT+
+fernandorojas22052000@gmail.com:Honduras2022. | PARAMOUNT+
+jeproenca.s@gmail.com:Jeps333222 | PARAMOUNT+
+roushikronaldoumrah@outlook.com:Maureenallen1969 | PARAMOUNT+
+jeproencas.Ytp@gmail.com:Jeps3322 | PARAMOUNT+
+davidalonsogiraldo08@gmail.com:nossagay | PARAMOUNT+
+matiromero2110@gmail.com:Silvia1205 | PARAMOUNT+
+vryksofc@gmail.com:VINI.COM.123 | PARAMOUNT+
+24kjaylen@gmail.com:Darrielle10! | PARAMOUNT+
+ryanbrown903@comcast.net:Luidachris2020 | PARAMOUNT+
+carlamelinaalcaraz@hotmail.com:joaquin5059 | PARAMOUNT+
+marctravers1977@gmail.com:Brenda1956 | PARAMOUNT+
+javik.jq@gmail.com:*b3b3sito1710* | PARAMOUNT+
+dbbwrd@yahoo.com:DeDaCo0370# | PARAMOUNT+
+cuentasorteada@exdonuts.com:Regalo123 | PARAMOUNT+
+monizjoao69@gmail.com:Gu20203030?? | PARAMOUNT+
+gabiiram2105@gmail.com:Bruno1306 | PARAMOUNT+
+jeproencas@gmail.com:[NOT_SAVED] | PARAMOUNT+
+dcharles2019@outlook.com:-hfCqQ9_JHH8/rm | PARAMOUNT+
+elhidalgo28@hotmail.com:Mhidalgo2022$ | PARAMOUNT+
+je.proencas@gmail.com:jeps3322 | PARAMOUNT+
+elsa-sant@live.com:08BIG02*#v | PARAMOUNT+
+migdalia101676@gmail.com:Maggie1016 | PARAMOUNT+
+chelseayvonne204@gmail.com:Howard2020 | PARAMOUNT+
+pillarluke@outlook.com:Chaos121 | PARAMOUNT+
+jeisson_19_07@hotmail.com:1098713014Leo | PARAMOUNT+
+tantteenorman@gmail.com:30NXPebblesNXNorman78 | PARAMOUNT+
+danifamuss@hotmail.com:plateia1317 | PARAMOUNT+
+alessioespositom@yahoo.com:Pinkie2001 | PARAMOUNT+
+j.o.hnproenca@gmail.com:Jeps3322 | PARAMOUNT+
+gusztavosilva2004@gmail.com:123mario2 | PARAMOUNT+
+paramount280@jeantv.net:daster127787 | PARAMOUNT+
+Proenca@gmail.com:Jeps3322 | PARAMOUNT+
+Neblito123456@gmail.com:Regalo23 | PARAMOUNT+
+owennugent1213@gmail.com:vwG2!zM3X%g9FGr | PARAMOUNT+
+isabellasilvacmorais@outlook.com:rento2311 | PARAMOUNT+
+Popit4zae@icloud.com:sumo9161 | PARAMOUNT+
+chastityvl@gmail.com:780703Cy | PARAMOUNT+
+johnykickflip@yahoo.com:blanks | PARAMOUNT+
+brianjaviervillalba.4@gmail.com:bjrdcdap+ | PARAMOUNT+
+tommy8725@hotmail.it:Nebulosa8725@ | PARAMOUNT+
+tanttenormaan@gmail.com:30NXPebblesNXNorman78 | PARAMOUNT+
+fogo8cr@hotmail.com:Fogoyolaevan28 | PARAMOUNT+
+michelecurry91@gmail.com:EzraStrong!6 | PARAMOUNT+
+isaver46@gmail.com:Arturo1983? | PARAMOUNT+
+susanortizmdq@yahoo.com.ar:india28 | PARAMOUNT+
+alexsanderamancio01@gmail.com:88085482 | PARAMOUNT+
+jeproencasytp@gmail.com:Jeps3322 | PARAMOUNT+
+pollo0923@gmail.com:cajasan1 | PARAMOUNT+
+dylanbotha39@gmail.com:Nadine@21221 | PARAMOUNT+
+dbbwrd@yahoo.com:DeDaCo03!70# | PARAMOUNT+
+nickdoss04@gmail.com:Nick1809 | PARAMOUNT+
+gamingwithbryce6@gmail.com:#G8eNcL6njVS.aC | PARAMOUNT+
+rhadamanthis_676@hotmail.com:wrulito155 | PARAMOUNT+
+juan_ca_flores@yahoo.com.ar:OSIta123456 | PARAMOUNT+
+elee22@optonline.net:Herring2308@ | PARAMOUNT+
+babybrag720@gmail.com:61238332 | PARAMOUNT+
+teicrer@gmail.com:teicrer@gmail.com | PARAMOUNT+
+danielmoyacuba@gmail.com:eMWd/xCx9/C4cns | PARAMOUNT+
+onichanotaku400@gmail.com:59631292aa | PARAMOUNT+
+vanesa.noval@gmail.com:Daniel1805 | PARAMOUNT+
+darcy1857@gmail.com:mmmummhhuijihiu | PARAMOUNT+
+dajota31@gmail.com:Dajota3126 | PARAMOUNT+
+tylerbaker900@gmail.com:Tylerbaker02$ | PARAMOUNT+
+sakuntalaathing@gmail.com:06suku06SHPH | PARAMOUNT+
+isaiahcobb112004@gmail.com:Sumo9161 | PARAMOUNT+
+pedrogar216@gmail.com:PeterParker18 | PARAMOUNT+
+johnbui38@gmail.com:397939jb | PARAMOUNT+
+carlamw@yahoo.com:Travisk70 | PARAMOUNT+
+mrstore1@outlook.es:param8787 | PARAMOUNT+
+contato.kauanrib@hotmail.com:Kauan3009 | PARAMOUNT+
+j6maisvu@gmail.com:w00dn4t4l13 | PARAMOUNT+
+Afgk1439@gmail.com:20Abbey139 | PARAMOUNT+
+cashflowbeatz@gmail.com:Mouses123! | PARAMOUNT+
+uywaaron@gmail.com:Alpha1234 | PARAMOUNT+
+johnpro.enca@gmail.com:Jeps333222 | PARAMOUNT+
+kirstychubb@hotmail.com:Ruthy2021 | PARAMOUNT+
+normantantte@email.com:30NXPebblesNormanNX78 | PARAMOUNT+
+cacereskatalin@gmail.com:mauricio12329 | PARAMOUNT+
+mipenenegrofeo@gmail.com:Cuenta123 | PARAMOUNT+
+gabriellyleandro1234@gmail.com:12345678 | PARAMOUNT+
+samape04sk@gmail.com:sabat1914 | PARAMOUNT+
+khargigs@gmail.com:P@ss917179 | PARAMOUNT+
+mocasuho.emarane@tovinit.com:Superacademy1 | PARAMOUNT+
+tiendaonlinejcruz801parz@gmail.com:PXZ240323 | PARAMOUNT+
+murilorodrigues258tty@gmail.com:wadanohara1 | PARAMOUNT+
+arturobriones70@gmail.com:Arturo1983? | PARAMOUNT+
+window101@yahoo.com:picnic007 | PARAMOUNT+
+cassandra92ca@hotmail.com:Cassandra263326 | PARAMOUNT+
+margarita68231@gmail.com:Levit6823 | PARAMOUNT+
+mheuvel31@gmail.com:Jarmal5050& | PARAMOUNT+
+j.ohnproenca@gmail.com:Jeps3322 | PARAMOUNT+
+mixed.bbykay@gmail.com:Bulldogs12 | PARAMOUNT+
+Oscgar00@outlook.com:Ogarcia12 | PARAMOUNT+
+victorinolopez@gmx.es:123456789 | PARAMOUNT+
+dnaallen@yahoo.com:dasjdkm+cw | PARAMOUNT+
+lissimc8+pe28@gmail.com:cuenta123 | PARAMOUNT+
+orly13009@gmail.com:sentidocomunsiempre | PARAMOUNT+
+johnproen.cas@gmail.com:Jeps3322 | PARAMOUNT+
+luissebastian0314@gmail.com:Lauraagudelo1 | PARAMOUNT+
+ammyruth@gmail.com:nossaloka | PARAMOUNT+
+theronpressley7@gmail.com:ChaseElliottDi9 | PARAMOUNT+
+j.eproenca.s@gmail.com:Jeps3322 | PARAMOUNT+
+regal7o123@gmail.com:Regalo123 | PARAMOUNT+
+sdguez@hotmail.com:dops1969 | PARAMOUNT+
+alemaomartelinhodeouro227@gmail.com:_itf225227 | PARAMOUNT+
+rosesorry234@gmail.com:Mommy4878181 | PARAMOUNT+
+sapobello@gmail.com:danny1983 | PARAMOUNT+
+Culvercharlie487@gmail.com:Broisgoofy13 | PARAMOUNT+
+paramountplusstremingservice@gmail.com:presleyhill10251179 | PARAMOUNT+
+deadpool9630@gmail.com:q.!G6%zej4@kqzs | PARAMOUNT+
+egydacaetano15@gmail.com:Egyda123 | PARAMOUNT+
+jeproencas.0522@gmail.com:Jeps3322 | PARAMOUNT+
+John.proenca@gmail.com:Jeps3322 | PARAMOUNT+
+antimatter@antimatter.me:###0Ponpan0### | PARAMOUNT+
+fabiandcasas12@gmail.com:14108484a | PARAMOUNT+
+alejosaldarriagam15@gmail.com:alejo035 | PARAMOUNT+
+myles.beyl@yahoo.com:Jake2908 | PARAMOUNT+
+Alba.gersanchez@gmail.com:Jeps3322 | PARAMOUNT+
+brianico74@gmail.com:1982_vgm | PARAMOUNT+
+soaresjonatas398@gmail.com:zc1123rtjk | PARAMOUNT+
+vincenzozombi@gmail.com:Lollo1234 | PARAMOUNT+
+lazerrencejcoleman@gmail.com:Jamario5 | PARAMOUNT+
+jeproencas.ytp@gmail.com:Jeps3322 | PARAMOUNT+
+YONSANCHEZ31@HOTMAIL.COM:31082002 | PARAMOUNT+
+destefanosantiago6@gmail.com:Familia7 | PARAMOUNT+
+pcgordonjr@gmail.com:Philip7935 | PARAMOUNT+
+omarlez@gmail.com:30PebblesNX | PARAMOUNT+
+jepro.encas@gmail.com:Jeps3322 | PARAMOUNT+
+aidancreech67@gmail.com:Aidang2009 | PARAMOUNT+
+publicasiones0923@gmail.com:cajasan1 | PARAMOUNT+
+leandronpsjc@outlook.com:Zett@1982 | PARAMOUNT+
+patricia31tkg@gmail.com:andreaymario$$ | PARAMOUNT+
+laura_agudelo2000@yahoo.com:Luis_0510 | PARAMOUNT+
+rogeraph@yahoo.com:Rigoli.13 | PARAMOUNT+
+newmenewlife041521@gmail.com:Ifyouwantlove2022! | PARAMOUNT+
+paramount180@movievzl.com:P185497@ | PARAMOUNT+
+amos.wangxuan@gmail.com:Wang141592! | PARAMOUNT+
+noc@voltecautomacao.com.br:ar627039 | PARAMOUNT+
